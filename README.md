@@ -1,1 +1,5 @@
-# Password_generator
+=======================
+Password Generator
+=======================
+
+Project was made by Dawid Janikowski
