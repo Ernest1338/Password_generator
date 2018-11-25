@@ -22,7 +22,7 @@ def gen():
 
 # Main Window
 root=Tk()
-root.title("Random Password Generator")
+root.title("Random Password Generator by Dawid Janikowski")
 root.minsize(500,300)
 root.maxsize(500,300)
 
